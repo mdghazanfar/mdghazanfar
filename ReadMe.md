@@ -96,7 +96,7 @@
 
 <br/>
 
-## Github Stats
+<!-- ## Github Stats:
 
 <table><tr><td valign="top" width="50%">
 
@@ -106,7 +106,20 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdghazanfar&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>
+</td></tr></table> -->
+
+# 📊 GitHub Stats:
+
+<table><tr><td valign="top" width="33%">
+![](https://github-readme-stats.vercel.app/api?username=mdghazanfar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+</td>
+<td valign="top" width="33%">
+![](https://github-readme-streak-stats.herokuapp.com/?user=mdghazanfar&theme=dark&hide_border=false)
+</td>
+<td valign="top" width="33%">
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdghazanfar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</td>
+</tr></table>
 
 <br/>
 
