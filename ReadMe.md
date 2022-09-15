@@ -96,7 +96,7 @@
 
 <br/>
 
-<!-- ## Github Stats:
+## Github Stats:
 
 <table><tr><td valign="top" width="50%">
 
@@ -106,7 +106,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdghazanfar&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table> -->
+</td></tr></table>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdghazanfar&theme=dark&hide_border=false)
 
