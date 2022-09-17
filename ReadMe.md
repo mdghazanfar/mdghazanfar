@@ -1,5 +1,5 @@
 <div align="center">
-<p font-weight="bold">Hey 👋, I'm Md Ghazanfar</p>
+<h1 font-size="25">Hey 👋, I'm Md Ghazanfar</h1>
 </div>
 <a href="https://instagram.com/https://www.instagram.com/mdghazanfar/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
