@@ -1,5 +1,6 @@
-## Hey 👋, I'm Md Ghazanfar
-
+<div align="center">
+<p>Hey 👋, I'm Md Ghazanfar</p>
+</div>
 <a href="https://instagram.com/https://www.instagram.com/mdghazanfar/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
@@ -20,9 +21,6 @@
 </a>
 
 ##### MERN Stack Developer || React-Native Developer || Software Engineer Intern, Virtusa | FrontEnd Developer
-
-<br/>  
-<br/>
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=mdghazanfar&&style=flat-square)
 
