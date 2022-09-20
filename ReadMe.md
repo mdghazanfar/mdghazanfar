@@ -30,7 +30,7 @@
 
 - 🗞️ Soon will be Graduating with Bachelors in Computer Science and Engineering (2023)
 
-- 💻Full stack developer curring working tech stacks - React,React Native, NextJs, NodeJs, MongoDB,
+- 💻Full stack developer curring working tech stacks - React,React Native, NextJs, NodeJs, MongoDB,TypeScript,
 
 - 🔭 I’m currently working on Handyman App
 
