@@ -6,7 +6,7 @@ const Navbar = () => {
   return (
     <nav className='bg-gray-800 dark:bg-gray-900 text-white sticky top-0 z-50'>
       <div className='container mx-auto flex items-center justify-between p-4'>
-        <h1 className='text-xl font-bold'>My Portfolio</h1>
+        <h1 className='text-xl font-bold'>MGA</h1>
         <div className='hidden md:flex space-x-4'>
           <Link href='#home' className='hover:text-green-500'>
             Home
