@@ -1,33 +1,12 @@
 // pages/index.tsx
 import Head from 'next/head';
-// import MainLayout from '../layouts/MainLayout';
-// import HomeSection from '../components/HomeSection';
-// import AboutSection from '../components/AboutSection';
-// import ProjectsSection from '../components/ProjectsSection';
-// import ContactSection from '../components/ContactSection';
 
-// const Home = () => (
-//   <MainLayout>
-// <Head>
-//   <title>My Portfolio</title>
-//   <meta
-//     name='description'
-//     content='Portfolio website of a Full Stack Developer.'
-//   />
-// </Head>
-// <HomeSection />
-// <AboutSection />
-// <ProjectsSection />
-// <ContactSection />
-//   </MainLayout>
-// );
-
-// export default Home;
 import MainLayout from '../layouts/MainLayout';
 import HomeSection from '../components/HomeSection';
 import AboutSection from '../components/AboutSection';
 import ProjectsSection from '../components/ProjectsSection';
 import ContactSection from '../components/ContactSection';
+import InspiringQuotes from '../components/InspiringSection';
 
 const Home = () => {
   return (
@@ -43,6 +22,7 @@ const Home = () => {
         <HomeSection />
         <AboutSection />
         <ProjectsSection />
+        <InspiringQuotes />
         <ContactSection />
       </section>
     </MainLayout>

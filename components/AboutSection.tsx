@@ -1,7 +1,6 @@
 import Head from 'next/head';
-import Link from 'next/link';
+import mga from '../public/Image/bill-gates.jpg';
 
-// components/AboutSection.tsx
 const AboutSection = () => (
   <section
     id='about'
@@ -16,8 +15,18 @@ const AboutSection = () => (
         />
       </Head>
 
-      <div className='container mx-auto px-6 sm:px-12 lg:px-24'>
-        <div className='text-center sm:text-left'>
+      <div className='container mx-auto px-6 sm:px-12 lg:px-24 grid grid-cols-1 sm:grid-cols-2 gap-8'>
+        {/* Row 1: Image */}
+        <div className='flex justify-center items-center'>
+          <img
+            src={mga.src} // Replace with your actual image path
+            alt='Md Ghazanfar Alam'
+            className='w-64 h-64 rounded-full shadow-lg object-cover'
+          />
+        </div>
+
+        {/* Row 2: About Me Content */}
+        <div className='text-center sm:text-left flex flex-col justify-center'>
           <h1 className='text-4xl sm:text-5xl md:text-6xl font-bold'>
             About Me
           </h1>
@@ -30,12 +39,10 @@ const AboutSection = () => (
           </p>
           <p className='mt-4 text-xl sm:text-2xl md:text-3xl'>
             I hold a Bachelor's degree in Computer Science Engineering from
-            Sister Nivedita University, Kolkata (2020). I am available for any
+            Sister Nivedita University, Kolkata (2023). I am available for any
             kind of job opportunity that suits my interests.
           </p>
         </div>
-
-        <div className='flex justify-center mt-8'></div>
       </div>
     </div>
   </section>
